@@ -6,7 +6,6 @@
 - ⚡ Fun fact:
 - ...🎨 Usman Shaikh | ✏️ Sketching Enthusiast | 🗣️ Communication Pro📢
 - ...💪Living confidently in the heart of Karachi 🇵🇰 | 💼 Young Business Mind
-- ... | 🎂 Born Dec 2008
 - ...🌟 Creating, connecting, and thriving every day
 
 <!---
