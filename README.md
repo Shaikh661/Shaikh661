@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Usman Shaikh
-- 👀 I’m interested in ... ✏️Sketching Enthusiast. 
+- 👀 I’m interested in ... Cyber Security. 
 - 🌱 I’m currently learning ... Python, C++, Js and Web-development.
 - 📫 How to reach me ... meusmanshahzad@gmail.com
-- 😄 Pronouns: ... Shaikh Sahab, Usman Bhai.
+- 😄 Pronouns: ... Usman Shaikh.
 - ⚡ Fun fact:
-- ...🎨 Usman Shaikh | ✏️ Sketching Enthusiast | 🗣️ Communication Pro📢
+- ...✏️ Sketching Enthusiast | 🗣️ Communication Pro📢|
 - ...💪Living confidently in the heart of Karachi 🇵🇰 | 💼 Young Business Mind
 - ...🌟 Creating, connecting, and thriving every day
 
