@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Cyber Security. 
 - 🌱 I’m currently learning ... Python, C++, Js and Web-development.
 - 📫 How to reach me ... meusmanshahzad@gmail.com
-- 😄 Pronouns: ... Usman Shaikh.
+- 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact:
 - ...✏️ Sketching Enthusiast | 🗣️ Communication Pro📢|
 - ...💪Living confidently in the heart of Karachi 🇵🇰 | 💼 Young Business Mind
