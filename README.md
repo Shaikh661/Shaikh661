@@ -28,7 +28,7 @@ Name       : Usman Shaikh
 Alias      : Yaldram
 Role       : Student Developer
 Currently  : Building Prog-Net 3.0
-Learning   : Web Development, Bash & Linux
+Learning   : Web Development, Python
 Interests  : Software Development, Cybersecurity,
              Creative Problem Solving & Open Source
 Mindset    : Learn. Build. Break. Improve.
